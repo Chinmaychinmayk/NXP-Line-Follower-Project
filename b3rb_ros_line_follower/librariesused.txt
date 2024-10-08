@@ -1,0 +1,10 @@
+The libraries used in this script are:
+
+1. `numpy`: For numerical operations, particularly array manipulations.
+2. `rclpy`: The ROS 2 Python client library, used for creating nodes, publishers, and subscribers.
+3. `sensor_msgs.msg`: Contains message types for sensor data, including `Joy`, `LaserScan`, and `CompressedImage`.
+4. `synapse_msgs.msg`: Contains custom message types for edge vectors and traffic status.
+5. `geometry_msgs.msg`: Contains message types for geometry data, including `Twist`.
+6. `heapq`: For implementing the priority queue used in the A* algorithm.
+7. `math`: For mathematical functions and constants.
+8. `cv2`: OpenCV library for image processing.
